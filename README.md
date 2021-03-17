@@ -1,7 +1,6 @@
-# rupee tether or INR tether or INRt
-Indian rupee(INR) but Ethereum ERC20 version. 
+I've Forked the rupeetether, a genius Indian Dev created this ages ago and made it open source.
+Nepalese Rupee but Ethereum ERC20 version. 
 
 We’ve combined the best of both worlds
-Get the joint benefits of open blockchain technology and traditional currency
+Get the joint benefits of open blockchain technology and traditional currency.
 
-Contact a@quardz.com for more info. 
